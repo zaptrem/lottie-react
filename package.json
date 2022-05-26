@@ -1,5 +1,5 @@
 {
-  "name": "@lottiefiles/react-lottie-player",
+  "name": "@zaptrem/react-lottie-player",
   "version": "3.4.7",
   "description": "Lottie web player wrapper for React",
   "main": "dist/lottie-react.js",
