@@ -15,13 +15,13 @@ This is a React component for the Lottie Web Player
 1. Install package using npm or yarn.
 
 ```shell
-npm install --save @lottiefiles/react-lottie-player
+npm install --save @zaptrem/react-lottie-player
 ```
 
 2. Import package in your code.
 
 ```javascript
-import { Player, Controls } from '@lottiefiles/react-lottie-player';
+import { Player, Controls } from '@zaptrem/react-lottie-player';
 ```
 
 ## Example/Development
@@ -82,7 +82,7 @@ in the example below to call methods that are described in this documentation. S
 
 ```javascript
 import React from 'react';
-import { Player } from '@lottiefiles/react-lottie-player';
+import { Player } from '@zaptrem/react-lottie-player';
 
 class App extends React.Component {
   constructor(props) {
@@ -113,7 +113,7 @@ The lottieRef prop returns the Lottie instance which you can use to set data and
 
 ```javascript
 import React from 'react';
-import { Player } from '@lottiefiles/react-lottie-player';
+import { Player } from '@zaptrem/react-lottie-player';
 
 class App extends React.Component {
   constructor(props) {
@@ -144,7 +144,7 @@ export default App;
 
 ```javascript
 import React from 'react';
-import { Player } from '@lottiefiles/react-lottie-player';
+import { Player } from '@zaptrem/react-lottie-player';
 
 class App extends React.Component {
   constructor(props) {

@@ -8,7 +8,7 @@ module.exports = {
       options: {
         unsafeAllowModulesOutsideOfSrc : true,
         aliases: {
-          '@lottiefiles/react-lottie-player': path.resolve('../../dist/lottie-react.esm.js'),
+          '@zaptrem/react-lottie-player': path.resolve('../../dist/lottie-react.esm.js'),
         }
       }
     }

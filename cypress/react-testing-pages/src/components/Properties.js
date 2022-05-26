@@ -1,4 +1,4 @@
-import { Player, Controls } from '@lottiefiles/react-lottie-player';
+import { Player, Controls } from '@zaptrem/react-lottie-player';
 import './App.css';
 
 function Properties() {
