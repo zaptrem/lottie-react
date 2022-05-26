@@ -1,4 +1,4 @@
-import lottie, { AnimationItem } from 'lottie-web';
+import lottie, { AnimationItem } from 'lottie-web/build/player/lottie_light';
 import * as React from 'react';
 
 /**
